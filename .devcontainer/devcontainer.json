@@ -55,7 +55,12 @@
 		"abusaidm.html-snippets",
 		"ms-vscode-remote.remote-wsl",
 		"cweijan.vscode-ssh",
-		"rebornix.ruby"
+		"rebornix.ruby",
+		"ms-vscode-remote.remote-ssh",
+		"ms-vscode-remote.remote-ssh-edit",
+		"mccarter.start-git-bash",
+		"formulahendry.terminal",
+		"wingrunr21.vscode-ruby"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
