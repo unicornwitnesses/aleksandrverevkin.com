@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Briefly about"
-title_separator          : "https://unicornwitnesses.com/"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Aleksandr Verevkin: COO in Unicornwitnesses.com"
+title_separator          : "-"
+subtitle                 : "work for your comfort"
 name                     : "Aleksandr"
 description              : "An amazing website."
 url                      : "https://unicornwitnesses.com/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : #"/blog"
 repository               : "unicornwitnesses/alexandrverevkin.com"
 teaser                   : # "assets/images/500300.png"
-logo                     : "assets/images/Core_unicornwitnesses.jpg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : # "assets/images/unicornwitneses-branded-logo.svg"
+masthead_title           : #"overrides the website title displayed in the masthead, use" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -86,9 +86,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"
   google:
-    tracking_id          :
+    tracking_id          : G-6CLSEL9C88
     anonymize_ip         : # true, false (default)
 
 
