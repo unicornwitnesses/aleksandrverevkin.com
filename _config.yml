@@ -97,18 +97,18 @@ author:
   name             : "Aleksandr Verevkin"
   avatar           : "/assets/images/avatar_of_Alexandr_Verevkin_designed_by_Olya_Nayda.jpg"
   bio              : "site under construction"
-  location         : "Russian Federation, Apsheronsk"
-  email            : "alexsnoor1989@gmail.com"
+  location         : "Russian Federation"
+  email            : mailto:alexsnoor1989@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: #"alexsnoor1989@gmail.com"
+      url:  # mailto:alexsnoor1989@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com instagram"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alexsnoor"
+      # url:  "https://twitter.com/alexsnoor"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url:   "https://www.facebook.com/alexshnoor"
@@ -119,14 +119,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/alex._.shnoor/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-Linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.cn/in/aleksandr-verevkin/"
     - label: "Telegram"
-      icon: "fas fa-fw fa-Telegram"
+      icon: "fas fa-fw fa-telegram"
       url: "t.me/alexsnoor"
     - label: "Vkontakte"
       icon: "fas fa-fw fa-vkontakte"
-      url: "vk.com/alex_shnoor"
+      #url: "vk.com/alex_shnoor"
 # Site Footer
 footer:
   links:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://www.instagram.com/alex._.shnoor"
 
 
 # Reading Files
@@ -155,6 +155,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - svelte-components
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
