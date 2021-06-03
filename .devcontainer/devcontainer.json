@@ -61,7 +61,9 @@
 		"mccarter.start-git-bash",
 		"formulahendry.terminal",
 		"wingrunr21.vscode-ruby",
-		"sissel.shopify-liquid"
+		"sissel.shopify-liquid",
+		"shd101wyy.markdown-preview-enhanced",
+		"yzhang.markdown-all-in-one"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
